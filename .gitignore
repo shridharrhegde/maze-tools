@@ -1,0 +1,6 @@
+.git/
+.vscode/
+__pycache__/
+classic/BAKUPS/
+.DS_Store
+maze.custom
